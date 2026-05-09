@@ -1,0 +1,24 @@
+/* 
+ * =============================================================
+ * Project: GoRi Switch Engine (고리 엔진)
+ * Original Concept & Creator: GoRi (고리)
+ * 
+ * [License & Terms of Use]
+ * 1. Personal & Non-Commercial: FREE to use. 
+ *    (개인 및 비영리 목적으로는 자유롭게 무료 사용이 가능합니다.)
+ *    - Individual creators, students, and hobbyists.
+ *    - Personal YouTube content creation and educational purposes.
+ * 
+ * 2. Enterprise & Commercial Use: PAID LICENSE REQUIRED. 
+ *    (기업, 단체, 또는 상업적 목적으로 이용 시 반드시 유료 라이선스를 취득해야 합니다.)
+ *    - Use in corporate environments, agencies, and for-profit projects.
+ *    - Commercial use without a separate license agreement is strictly prohibited.
+ *    - 별도의 협의 없는 상업적 이용 및 재배포는 법적 제재를 받을 수 있습니다.
+ * 
+ * 3. Attribution Requirement:
+ *    - When sharing workflows or content created with this engine, 
+ *      attribution to "GoRi Switch Engine" is highly recommended.
+ * 
+ * Contact for License & Inquiries: [khd57788@gmail.com]
+ * =============================================================
+ */
