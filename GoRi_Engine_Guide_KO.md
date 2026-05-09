@@ -38,7 +38,7 @@ GoRi는 ComfyUI를 위한 **무선 신호 시스템**이에요.
 
 ## 1. 시작하기
 -압축을 풀고 ComfyUI-GoRi-Wireless 폴더를 ComfyUI / custom_nodes  폴더에 넣어 주세요.
--GoRi 엔진은 ComfyUI 시작과 동시에 당신이 사용하는 모든 노드에 자동으로 GoRi 엔진이
+GoRi 엔진은 ComfyUI 시작과 동시에 당신이 사용하는 모든 노드에 자동으로 GoRi 엔진이
 탑재가 돼요. (예외 노드도 있어요.)
 -ComfyUI 사용을 하다가 Manager에서 새로운 노드를 깔고 새로고침이 되면,
 자동으로 GoRi 엔진이 탑재가 돼요.(혹시 안 되면 f5나 Ctrl+f5를 눌러 새로고침 하세요)
