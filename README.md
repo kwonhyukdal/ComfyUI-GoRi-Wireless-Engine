@@ -1,6 +1,6 @@
-[https://github.com/user-attachments/assets/627aa798-97c4-4462-8683-3e403eab5d7d](https://github.com/user-attachments/assets/eb31bb66-41d0-4baf-98e0-28fa9b17dc81)
-
 <img width="1280" height="720" alt="ComfyUI-GoRi-Wireless" src="https://github.com/user-attachments/assets/e4ad1b2d-7638-4210-a53e-b101a35033c5" />
+
+[https://github.com/user-attachments/assets/627aa798-97c4-4462-8683-3e403eab5d7d](https://github.com/user-attachments/assets/eb31bb66-41d0-4baf-98e0-28fa9b17dc81)
 
 # 📡 ComfyUI-GoRi-Wireless Engine
 
