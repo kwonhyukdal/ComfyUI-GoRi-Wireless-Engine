@@ -33,6 +33,8 @@
 
 <img width="1280" height="720" alt="설치 가이드" src="https://github.com/user-attachments/assets/d86a4650-e83d-4457-b39d-cce8ebf82804" />
 
+---
+
 Install Directly: 직접 설치하다.
 <img width="1280" height="720" alt="직접설치" src="https://github.com/user-attachments/assets/f10f83cb-177c-4b8f-a2e2-46407eeba2a2" />
 
