@@ -30,10 +30,8 @@
 ## 🛠️ Installation
 1. Open **ComfyUI Manager**.
 2. Click **"Install via Git URL"**.
-3. 현재 이 페이지의 URL을 복사해서 붙여넣으세요.
+3. Please copy and paste the URL of this page. 현재 이 페이지의 URL을 복사해서 붙여넣으세요.
 4. Restart ComfyUI.
-
----
 
 ## 📖 Guides & License
 * [English Guide](./GoRi_Engine_Guide_EN.md)
