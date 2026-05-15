@@ -28,12 +28,12 @@
 ---
 
 ## 🛠️ Installation
-1.<img width="1280" height="720" alt="설치 가이드" src="https://github.com/user-attachments/assets/d86a4650-e83d-4457-b39d-cce8ebf82804" />
+1. 복사: 깃허브 주소를 복사한다!
+2. 붙여넣기: ComfyUI 매니저 'Install via Git URL'에 넣는다!
 
-1. Open **ComfyUI Manager**.
-2. Click **"Install via Git URL"**.
-3. Please copy and paste the URL of this page. 현재 이 페이지의 URL을 복사해서 붙여넣으세요.
-4. Restart ComfyUI.
+.<img width="1280" height="720" alt="설치 가이드" src="https://github.com/user-attachments/assets/d86a4650-e83d-4457-b39d-cce8ebf82804" />
+
+
 
 ## 📖 Guides & License
 * [English Guide](./GoRi_Engine_Guide_EN.md)
