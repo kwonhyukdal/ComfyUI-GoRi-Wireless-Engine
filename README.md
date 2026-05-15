@@ -28,7 +28,9 @@
 ## 📖 Guides & License
 * [English Guide](./GoRi_Engine_Guide_EN.md)
 * [한국어 가이드](./GoRi_Engine_Guide_KO.md)
-* [License (KO)](./GoRi%20엔진%20라이선스.txt)<img width="1280" height="720" alt="ComfyUI-GoRi-Wireless" src="https://github.com/user-attachments/assets/70a8dacf-aa00-4621-bd69-814c9a5404c5" />
+* [License (KO)](./GoRi%20엔진%20라이선스.txt)
+*
+* <img width="1280" height="720" alt="ComfyUI-GoRi-Wireless" src="https://github.com/user-attachments/assets/70a8dacf-aa00-4621-bd69-814c9a5404c5" />
 
 
 https://github.com/user-attachments/assets/627aa798-97c4-4462-8683-3e403eab5d7d
