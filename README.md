@@ -33,6 +33,8 @@
 3. 현재 이 페이지의 URL을 복사해서 붙여넣으세요.
 4. Restart ComfyUI.
 
+---
+
 ## 📖 Guides & License
 * [English Guide](./GoRi_Engine_Guide_EN.md)
 * [한국어 가이드](./GoRi_Engine_Guide_KO.md)
