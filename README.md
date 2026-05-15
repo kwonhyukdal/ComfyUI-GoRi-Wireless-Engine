@@ -31,7 +31,7 @@
 1. 복사: 깃허브 주소를 복사한다!
 2. 붙여넣기: ComfyUI 매니저 'Install via Git URL'에 넣는다!
 
-.<img width="1280" height="720" alt="설치 가이드" src="https://github.com/user-attachments/assets/d86a4650-e83d-4457-b39d-cce8ebf82804" />
+<img width="1280" height="720" alt="설치 가이드" src="https://github.com/user-attachments/assets/d86a4650-e83d-4457-b39d-cce8ebf82804" />
 
 
 
